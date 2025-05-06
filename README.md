@@ -1,1 +1,1 @@
-# Multi
+Multiagentes y Unity En este proyecto se hizo un programa en el cual detectabamos si un ladron pasaba dentro de una bodega. Para hacer esto usamos multiagentes en base a una libreria llamada agent.py y tambien usamos modelos de Yolo por lo cual me gusto mucho ya que pudimos usar inteligencia artificial.
